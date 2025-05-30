@@ -2,7 +2,7 @@
 
 ### Task
 
-Launch a daily pipeline for a fictional social network in a data lake on a Hadoop HDFS cluster, performing the following tasks as per requirements. Document the schema of the data marts and the pipeline files in the data catalog.
+Launch a daily pipeline for a fictional social network in a Hadoop HDFS-based data lake, performing the following tasks as per requirements. Document the schema of the data marts and the pipeline files in the data catalog.
 
 1. Incremental loading of event logs (messages, reactions, subscriptions) from the raw data layer to ODS.
 2. Building a data mart with user activity statistics by city.
@@ -17,7 +17,7 @@ ETL pipeline development using Airflow and Spark, building a Data Lake on Hadoop
 
 ### Задача
 
-Запустить ежедневный пайплайн для условной социальной сети в озере данных на кластере Hadoop HDFS, выполняющий задачи согласно требованиям. Задокументировать схемы витрин и файлы пайплайна в дата-каталоге.
+Запустить ежедневный пайплайн для условной социальной сети в озере данных на базе Hadoop HDFS, выполняющий задачи согласно требованиям. Задокументировать схемы витрин и файлы пайплайна в дата-каталоге.
 
 1. Инкрементальная загрузка логов событий (сообщения, реакции, подписки) из слоя сырых данных в ODS.
 2. Сборка витрины с активностью пользователей по городам.
