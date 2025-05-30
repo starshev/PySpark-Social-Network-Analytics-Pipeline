@@ -1,4 +1,4 @@
-# Social Network Analytics Pipeline using Spark and Airflow
+## Social Network Analytics Pipeline using Spark and Airflow
 
 ### Task
 
@@ -13,7 +13,7 @@ Build a pipeline for a fictional social network in a data lake on a Hadoop HDFS 
 ETL pipeline development using Airflow and Spark, building a Data Lake on Hadoop HDFS, incremental loading, data mart modeling, big data processing with Python, automation of calculations, testing DAGs in Airflow, documenting solutions.
  
 
-# Аналитический пайплайн социальной сети с использованием Spark и Airflow
+## Аналитический пайплайн социальной сети с использованием Spark и Airflow
 
 ### Задача
 
