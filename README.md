@@ -13,7 +13,7 @@ Launch a daily pipeline for a fictional social network in a Hadoop HDFS-based da
 ETL pipeline development using Airflow and Spark, building a Data Lake on Hadoop HDFS, incremental loading, data mart modeling, big data processing with Python, automation of calculations, testing DAGs in Airflow, documenting solutions.
  
 
-## Аналитический пайплайн социальной сети с использованием Spark и Airflow
+## Сборка аналитических отчётов о соцсети с использованием Spark и Airflow
 
 ### Задача
 
